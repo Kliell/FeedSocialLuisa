@@ -6,7 +6,7 @@ export const useTheme = () => {
     colors: {
       background: isDark ? '#000000' : '#FFFFFF',
       text: isDark ? '#FFFFFF' : '#262626',
-      primary: '#0095F6', // Azul estilo social media
+      primary: '#0095F6',
       card: isDark ? '#121212' : '#FAFAFA',
       border: isDark ? '#262626' : '#DBDBDB',
     },
